@@ -1,0 +1,634 @@
+onset	duration	nwb_table	Unrewarded	Rewarded	NoLick	NoCue	StimTrials	CueOnset	DelayDuration	FirstLick	GoodTrials	PhotostimulationType
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1621999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.6251999999999995	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000005	1.0	0.6692	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0935000000000006	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0	0.264899999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.0063000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.6413000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.5291999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.7772000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1041999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.4489000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.6587999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.5648000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9747999999999997	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0	4.309200000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9051999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.020000000000001	1.0	0.8760999999999992	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9272000000000009	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0645999999999995	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0599000000000007	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.3857999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.0	0.5762	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.0	0.8752999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0248000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.8974000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000014	1.0	1.0037000000000003	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0	1.1677000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.8626999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.39559999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9165000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1562999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.22780000000000022	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0921000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.6524999999999999	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999998	1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0545999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.6990999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000014	1.0	0.700899999999999	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9649999999999999	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000005	1.0	0.46279999999999966	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.0	0.9741	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0166000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.0	1.1468999999999987	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.15149999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True		1.0		1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.9098000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8994	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.1124	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.5208000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0753000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.820800000000002	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.14029999999999987	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.3716	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.043800000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.125	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.7500000000000004	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.7800000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.8102999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2534999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.2771000000000003	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.0631999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2072000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.2261999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.8960999999999997	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.5100999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.0403000000000002	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7638000000000007	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.157	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.2034999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5108999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.8	0.6156000000000006	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.8	2.0745	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	0.7553999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.3176999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4627999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7367	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.3800000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4161999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.041500000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.5541000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4528999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000002	1.8	2.2245000000000004	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.8975	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.2499000000000002	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.5913999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.326	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2609000000000004	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000002	1.8	1.7268999999999997	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4317000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.5290000000000008	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.4397000000000002	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0199999999999996	1.8	0.49880000000000013	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999991	1.8	1.595600000000001	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0200000000000005	1.8	0.8309999999999995	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.2721	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.6236000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	2.3555	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True		1.0		1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9094000000000015	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.0	1.6689000000000007	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.177200000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2933000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.8462000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.2614000000000001	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1875999999999998	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000002	1.0	3.0358999999999994	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0792000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.7200000000000006	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0652999999999988	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.7038000000000011	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8282999999999987	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.8797999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.8339999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1284	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.2281999999999997	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1904000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8814000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9889999999999999	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000005	1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True		1.0		1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1470000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.5857999999999994	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0	0.7520000000000007	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.8819999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.438600000000001	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8332000000000006	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.42929999999999957	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9857999999999993	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.5689000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9655	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.4238999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1584000000000012	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.3282000000000025	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	0.8845999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.3102999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.39289999999999914	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7481999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.111600000000001	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.0933000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.6359000000000004	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2264	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.8	0.8966000000000003	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.1707	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4232000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2610999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999991	1.8	1.2217000000000011	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.2203	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.0199999999999996	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.3148999999999997	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.3925	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5261999999999998	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.0199999999999996	1.8		1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999998	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.8	2.0180000000000007	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.8063000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.1938	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.1698999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4019000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.9603999999999999	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	2.4263999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000002	1.8	1.6434999999999995	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.0752999999999995	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.8	1.8452000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	0.8515999999999995	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3305999999999991	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.7601999999999998	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.1402999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3723000000000005	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0200000000000005	1.8	0.5850999999999988	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3115999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.8439000000000001	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4676	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	1.8582999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.0327000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.6517	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.48619999999999974	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.3511999999999995	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.234	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999998	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1377000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.0	0.31540000000000035	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1658	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.0	0.9443000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8273000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000002	1.0	0.9847999999999999	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.3552	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0311000000000021	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.2957000000000001	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2329000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2129000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.5894000000000004	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.012500000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.4276	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9203000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.7039000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9024999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.0076	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.5244	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.4843000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.2446000000000002	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.2998000000000003	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999998	1.0	3.7085	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True		1.0		1.0	3.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.9504000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.4131	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.09750000000000014	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.7668000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0925000000000011	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.0011000000000005	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.6487999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999998	1.0	0.23380000000000045	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.6435000000000013	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1406	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.0131999999999994	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.0777000000000001	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0545	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.7570999999999994	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9186000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9543999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0199999999999996	1.0	0.4671000000000003	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.9992000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.3498000000000006	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.8	2.2329000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.07169999999999987	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2122000000000006	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.02	1.8	0.7656000000000001	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.3579000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5692000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.1454999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4906999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.7562999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4963000000000006	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.2287999999999997	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.5830000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.1485000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4793000000000003	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.9611	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.1433999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.8	0.8319999999999999	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.121500000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5385	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.2620999999999993	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.6829000000000005	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999998	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000014	1.8	3.8348999999999958	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2005000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4665000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.1392999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3192	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5737000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4532999999999987	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.8	1.9015999999999997	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7627000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.8	1.8987999999999996	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5072	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.1437999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2142999999999993	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.8	2.8754999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.9750999999999999	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4636000000000013	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.1488000000000014	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7201999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.7433000000000005	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	2.9145000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.1112000000000002	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.7248999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8389999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.4047000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.8	1.0434999999999999	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4726999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5892	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.753099999999999	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000005	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000002	1.8	1.2338	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999987	1.8	1.4649999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	1.8087000000000009	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999998	1.8	1.6816000000000004	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.6977999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999998	1.8	1.0921000000000003	1.0	3.0
+0.0	0.0	trials	False	False	True	False	False	1.0199999999999998	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.6967999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.2642000000000015	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.6242999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.5377000000000005	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.4017	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.2011000000000003	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.1677999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.8648999999999969	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.2944999999999993	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.0	1.3148999999999997	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0979999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.0185	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.1394000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.1732	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0432000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.0	0.8173000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.12450000000000028	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.08479999999999954	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	1.1258999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.9767000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.9059000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.5601999999999983	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.9817999999999993	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.152000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.089	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.6387	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.7512000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.1955	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.6108000000000011	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.8649	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.287	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2992000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.1837000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4238999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.2864999999999998	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	3.3933	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.6536999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.3824999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2551000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3908	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5512000000000015	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	5.980499999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	0.6957000000000004	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5295	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0199999999999998	1.8	1.6914999999999996	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.5652	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.7062999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	2.280000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.0025	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.6040999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7489	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4385999999999992	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999998	1.8	1.5806	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	10.581700000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.6398000000000001	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.9454000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.3840999999999992	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.1816000000000013	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	2.1476000000000006	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4843000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5858000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	2.6997999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	0.5766999999999998	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	1.8317999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.275	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2218	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.0107	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.3770999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4975	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.5945	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.6389999999999998	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.8	1.8534000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.9832999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5697999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.3359000000000005	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.452	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	2.0131000000000006	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.3187999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.0	0.9421999999999997	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.2502999999999975	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2323000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999998	1.0	1.6701000000000001	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0255999999999994	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0482999999999998	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0	2.835099999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	1.2382999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0001000000000015	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.3834999999999997	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0542999999999996	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999991	1.0	1.0901000000000005	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1905999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.4367000000000001	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.2545000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.8652999999999995	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1293000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000014	1.0	1.349199999999998	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000014	1.0	1.068999999999999	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.4184000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2355999999999998	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.0407000000000006	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.9790000000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.1766999999999994	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.019999999999996	1.0	0.9381000000000022	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	1.2112999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1134	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.5268999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.7421000000000006	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0676999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.4102999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1188999999999991	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0042999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.088000000000001	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.0505999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.32709999999999884	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.0559000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.2361999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.4864000000000002	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000031	1.8	1.2716999999999992	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	2.2896	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.054199999999999804	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.4751000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.5989000000000004	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.8	2.3788	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.8	1.8158999999999992	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000014	1.8	1.5124999999999993	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	0.8428000000000004	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.5568999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.7716000000000003	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	2.3255	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000002	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.7604999999999995	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.8	1.9741999999999997	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.8	2.1240999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.1959999999999997	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.8	2.0486000000000004	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.4722999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	3.5920000000000005	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.3981999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.1038	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.0200000000000005	1.8	1.7039999999999997	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8317000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7519	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.7912000000000008	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5871	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.4330000000000007	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7032000000000007	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.46	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2928999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.7451999999999996	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.8	2.7417	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	1.8576000000000015	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.347899999999999	1.0	0.0
+0.0	0.0	trials	False	False	True	False	True	1.0199999999999996	1.8		1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.452	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.8	2.061899999999999	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.3815999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.4556000000000004	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.02	1.8	0.8081999999999998	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.3513000000000002	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000005	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.3741999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.4886999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.8	2.1395999999999997	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.6886999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	3.3367999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5715000000000003	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.3259	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.2447	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.9730999999999996	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.4456000000000007	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.8	3.174200000000001	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.149	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1702999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.2228999999999997	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2217999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	2.176	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2064000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.0473	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.0	1.2185999999999986	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.4727000000000001	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2446000000000006	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0	1.4907000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	1.0678	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True		1.0		1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2826999999999993	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2235999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.2804000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.04360000000000497	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.7162999999999995	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.456199999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.0	1.0078	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0945	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.02	1.0		1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.2441999999999993	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.34499999999999975	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.0	0.8067000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.6742000000000004	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.2006999999999994	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.9134999999999991	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.4412000000000003	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.375	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False		1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.0	2.350600000000002	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.3868999999999998	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0876000000000006	1.0	0.0
+0.0	0.0	trials	False	False	False	True	True	1.02	1.0		1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2118000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.020000000000001	1.0	0.11399999999999988	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0374999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1629000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.9488000000000003	1.0	3.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1122	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.2511999999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1597000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.0477000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.8624999999999998	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.7525000000000008	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.4245999999999994	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.02	1.0	3.800899999999999	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.5794999999999995	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.1618	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.6682000000000006	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.4236999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.0	0.8814000000000011	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.1707000000000005	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0	3.3956	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1269	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.0200000000000005	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.665	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999998	1.0	1.2249000000000003	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.0	0.4935999999999998	1.0	1.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.0	0.2041000000000004	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0200000000000002	1.0	2.1370999999999993	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000005	1.0	1.0996999999999986	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.3486000000000011	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000014	1.0	1.2719999999999985	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.5043000000000006	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999998	1.8	1.7029	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999998	1.8	2.156	1.0	3.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7033000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.4577	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000031	1.8	1.785899999999998	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000002	1.8	2.3975999999999993	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5246999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	2.9560999999999997	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.0199999999999998	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.8	1.9766000000000004	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.2207	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7278000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999996	1.8	2.2611000000000003	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.7350000000000003	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8817	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0199999999999998	1.8	2.1673999999999993	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.5611000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0200000000000005	1.8	1.6736999999999993	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	3.4220999999999995	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.7552000000000003	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.0200000000000002	1.8	2.3215999999999997	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8990000000000005	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.8	1.5457	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000002	1.8	1.4185999999999996	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	1.5706000000000007	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000002	1.8	1.9546000000000001	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.8	1.71	1.0	0.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.6507000000000005	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.1516	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	0.9979000000000005	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	2.2283999999999997	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.7719999999999998	1.0	2.0
+0.0	0.0	trials	True	False	False	False	False	1.0199999999999996	1.8	0.3259999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.915	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999998	1.8	1.6620999999999997	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8711000000000007	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.02	1.8	1.7076000000000007	1.0	1.0
+0.0	0.0	trials	False	False	True	False	False	1.02	1.8		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.8	1.8574000000000002	1.0	0.0
+0.0	0.0	trials	True	False	False	False	True	1.0199999999999996	1.8	1.5871999999999993	1.0	2.0
+0.0	0.0	trials	False	False	True	False	False	1.0200000000000005	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	3.8125999999999998	1.0	3.0
+0.0	0.0	trials	False	False	True	False	False	1.0199999999999996	1.0		1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.3501000000000012	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.4846000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.7397	1.0	0.0
+0.0	0.0	trials	False	False	False	True	False	1.0199999999999996	1.0	0.3058000000000014	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.6749	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.02	1.0	1.2434999999999996	1.0	1.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.1233	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.2656	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.02	1.0	0.3370000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.3811999999999998	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000014	1.0	0.27229999999999954	1.0	0.0
+0.0	0.0	trials	True	False	False	False	False	1.0200000000000005	1.0	0.8402999999999996	1.0	0.0
+0.0	0.0	trials	False	True	False	False	True	1.0200000000000005	1.0	1.782799999999999	1.0	2.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.3582	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.3229000000000002	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.0199999999999996	1.0	1.1378000000000004	1.0	0.0
+0.0	0.0	trials	False	True	False	False	False	1.02	1.0	1.302	1.0	0.0

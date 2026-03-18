@@ -1,0 +1,22 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	H2 probe	2.5	1.5	1.136018949969808	n/a	0.0	H2 probe	ALM
+e001	H2 probe	2.5	1.5	0.9993339656952995	n/a	0.0	H2 probe	ALM
+e002	H2 probe	2.5	1.5	0.9814355265176203	n/a	0.0	H2 probe	ALM
+e003	H2 probe	2.5	1.5	0.9687073258914375	n/a	0.0	H2 probe	ALM
+e004	H2 probe	2.5	1.5	0.9580905147825254	n/a	0.0	H2 probe	ALM
+e005	H2 probe	2.5	1.5	0.9620937098977795	n/a	0.0	H2 probe	ALM
+e006	H2 probe	2.5	1.5	0.7310112860309942	n/a	0.0	H2 probe	ALM
+e007	H2 probe	2.5	1.5	0.6519336789968184	n/a	0.0	H2 probe	ALM
+e008	H2 probe	2.5	1.5	0.5061287741912629	n/a	0.0	H2 probe	ALM
+e009	H2 probe	2.5	1.5	1.0046214844068662	n/a	0.0	H2 probe	ALM
+e010	H2 probe	2.5	1.5	0.9848424426486311	n/a	0.0	H2 probe	ALM
+e011	H2 probe	2.5	1.5	0.9577496727252298	n/a	0.0	H2 probe	ALM
+e012	H2 probe	2.5	1.5	0.9297762189940434	n/a	0.0	H2 probe	ALM
+e013	H2 probe	2.5	1.5	0.886506492013164	n/a	0.0	H2 probe	ALM
+e014	H2 probe	2.5	1.5	0.8676066354838751	n/a	0.0	H2 probe	ALM
+e015	H2 probe	2.5	1.5	0.8047707157098682	n/a	0.0	H2 probe	ALM
+e016	H2 probe	2.5	1.5	0.8026131679143947	n/a	0.0	H2 probe	ALM
+e017	H2 probe	2.5	1.5	0.6686981258022742	n/a	0.0	H2 probe	ALM
+e018	H2 probe	2.5	1.5	0.5936319689630672	n/a	0.0	H2 probe	ALM
+e019	H2 probe	2.5	1.5	0.5604191248847298	n/a	0.0	H2 probe	ALM
+e020	H2 probe	2.5	1.5	0.5602354203860269	n/a	0.0	H2 probe	ALM

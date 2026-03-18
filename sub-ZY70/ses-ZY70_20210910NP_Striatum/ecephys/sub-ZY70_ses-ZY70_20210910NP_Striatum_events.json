@@ -1,0 +1,52 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "Unrewarded": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "Rewarded": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "NoLick": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "NoCue": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "StimTrials": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "CueOnset": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "DelayDuration": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "FirstLick": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "GoodTrials": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "PhotostimulationType": {
+        "Description": "Stop time of epoch, in seconds."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "trial data and properties"
+    }
+}

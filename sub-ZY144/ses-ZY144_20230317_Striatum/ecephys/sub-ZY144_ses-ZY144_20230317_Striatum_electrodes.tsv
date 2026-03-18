@@ -1,0 +1,13 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	Optrode	4.4750000000000005	4.7250000000000005	4.775	n/a	0.0	Optrode	Striatum
+e001	Optrode	4.4750000000000005	4.7250000000000005	4.775	n/a	0.0	Optrode	Striatum
+e002	Optrode	4.425	4.55	4.775	n/a	0.0	Optrode	Striatum
+e003	Optrode	4.4	4.325	4.775	n/a	0.0	Optrode	Striatum
+e004	Optrode	4.375	4.275	4.775	n/a	0.0	Optrode	Striatum
+e005	Optrode	4.375	4.2250000000000005	4.775	n/a	0.0	Optrode	Striatum
+e006	Optrode	4.325	3.975	4.775	n/a	0.0	Optrode	Striatum
+e007	Optrode	4.4750000000000005	4.675	5.025	n/a	0.0	Optrode	Striatum
+e008	Optrode	4.425	4.45	5.025	n/a	0.0	Optrode	Striatum
+e009	Optrode	4.375	4.3	5.025	n/a	0.0	Optrode	Striatum
+e010	Optrode	4.375	4.2250000000000005	5.025	n/a	0.0	Optrode	Striatum
+e011	Optrode	4.3	3.9250000000000003	5.025	n/a	0.0	Optrode	Striatum
