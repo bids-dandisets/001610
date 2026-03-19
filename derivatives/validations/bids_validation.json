@@ -1,0 +1,2033 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "code": "UNKNOWN_BIDS_VERSION",
+        "location": "/dataset_description.json",
+        "rule": "rules.checks.dataset.UnknownVersion",
+        "severity": "ignore"
+      },
+      {
+        "code": "README_FILE_MISSING",
+        "location": "/dataset_description.json",
+        "rule": "rules.checks.hints.ReadmeFileMissing",
+        "severity": "ignore"
+      },
+      {
+        "code": "TOO_FEW_AUTHORS",
+        "location": "/dataset_description.json",
+        "rule": "rules.checks.hints.TooFewAuthors",
+        "severity": "ignore"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "SourceDatasets",
+        "location": "/dataset_description.json",
+        "severity": "warning",
+        "rule": "rules.dataset_metadata.dataset_description",
+        "issueMessage": "Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).\nValid keys in each object include `\"URL\"`, `\"DOI\"` (see\n[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and\n`\"Version\"` with\n[string](https://www.w3schools.com/js/js_json_datatypes.asp)\nvalues.\n"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY98/sub-ZY98_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY98_20220602NPH2_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY98/ses-ZY98_20220606NPH2_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY98/ses-ZY98_20220605NPH2_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY98/ses-ZY98_20220603NPH2_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY98/ses-ZY98_20220602NPH2_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY98/ses-ZY98_20220604NPH2_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY82/sub-ZY82_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY82_20211026NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211026NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211027NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211031NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211030NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211028NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211028NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211027NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY82/ses-ZY82_20211029NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY115/sub-ZY115_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY115_20220719_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY115/ses-ZY115_20220720_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY115/ses-ZY115_20220719_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY115/ses-ZY115_20220721_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY116/sub-ZY116_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY116_20220815_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY116/ses-ZY116_20220818_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY116/ses-ZY116_20220817_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY116/ses-ZY116_20220819_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY116/ses-ZY116_20220816_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY116/ses-ZY116_20220815_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY67/sub-ZY67_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY67_20210812NP_Striatum'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY67/ses-ZY67_20210812NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY67/ses-ZY67_20210816NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY67/ses-ZY67_20210813NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY67/ses-ZY67_20210814NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY67/ses-ZY67_20210815NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY207/sub-ZY207_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY207_20240216_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY207/ses-ZY207_20240217_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY207/ses-ZY207_20240216_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY207/ses-ZY207_20240218_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY142/sub-ZY142_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY142_20230208_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY142/ses-ZY142_20230210_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY142/ses-ZY142_20230208_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY142/ses-ZY142_20230209_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY78/sub-ZY78_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY78_20211014NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211016NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211015NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211016NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211019NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211020NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211017NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211014NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211018NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211014NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY78/ses-ZY78_20211015NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY83/sub-ZY83_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY83_20211108NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211109NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211112NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211111NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211109NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211110NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211110NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211108NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY83/ses-ZY83_20211108NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY111/sub-ZY111_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY111_20220805_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220809_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220806_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220805_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220810_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220807_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY111/ses-ZY111_20220808_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY103/sub-ZY103_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY103_20220519_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY103/ses-ZY103_20220519_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-MI111/sub-MI111_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-MI111_20240119_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MI111/ses-MI111_20240119_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MI111/ses-MI111_20240121_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MI111/ses-MI111_20240120_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY135/sub-ZY135_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY135_20221208_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221215_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221219_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221217_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221209_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221208_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221212_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221213_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221208_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221214_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221216_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221209_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221221_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221218_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221220_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221211_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY135/ses-ZY135_20221211_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY141/sub-ZY141_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY141_20230203_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY141/ses-ZY141_20230204_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY141/ses-ZY141_20230203_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY141/ses-ZY141_20230206_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-MK25/sub-MK25_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-MK25_20230310_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK25/ses-MK25_20230313_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK25/ses-MK25_20230314_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK25/ses-MK25_20230310_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK25/ses-MK25_20230312_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK25/ses-MK25_20230311_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY118/sub-ZY118_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY118_20220814_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY118/ses-ZY118_20220816_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY118/ses-ZY118_20220814_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY118/ses-ZY118_20220815_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY126/sub-ZY126_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY126_20221125_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY126/ses-ZY126_20221129_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY126/ses-ZY126_20221125_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY104/sub-ZY104_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY104_20220513_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY104/ses-ZY104_20220513_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY104/ses-ZY104_20220516_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY76/sub-ZY76_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY76_20210923NP_Striatum'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY76/ses-ZY76_20210924NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY76/ses-ZY76_20210923NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY76/ses-ZY76_20210925NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY76/ses-ZY76_20210927NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY76/ses-ZY76_20210926NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY151/sub-ZY151_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY151_20230408_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY151/ses-ZY151_20230409_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY151/ses-ZY151_20230408_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY151/ses-ZY151_20230411_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY151/ses-ZY151_20230410_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY212/sub-ZY212_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY212_20240408_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY212/ses-ZY212_20240410_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY212/ses-ZY212_20240410_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY212/ses-ZY212_20240408_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY212/ses-ZY212_20240408_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY113/sub-ZY113_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY113_20220617_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY113/ses-ZY113_20220618_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY113/ses-ZY113_20220620_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY113/ses-ZY113_20220619_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY113/ses-ZY113_20220621_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY113/ses-ZY113_20220617_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY123/sub-ZY123_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY123_20220915_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220918_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220920_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220915_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220919_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220916_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220921_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY123/ses-ZY123_20220917_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY208/sub-ZY208_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY208_20240216_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY208/ses-ZY208_20240218_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY208/ses-ZY208_20240216_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY88/sub-ZY88_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY88_20220202NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY88/ses-ZY88_20220203NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY88/ses-ZY88_20220202NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY88/ses-ZY88_20220204NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY132/sub-ZY132_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY132_20221029_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY132/ses-ZY132_20221030_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY132/ses-ZY132_20221102_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY132/ses-ZY132_20221101_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY132/ses-ZY132_20221029_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY132/ses-ZY132_20221031_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY84/sub-ZY84_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY84_20211225NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY84/ses-ZY84_20211228NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY84/ses-ZY84_20211226NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY84/ses-ZY84_20211225NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY84/ses-ZY84_20211227NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY84/ses-ZY84_20211229NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY156/sub-ZY156_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY156_20230502_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY156/ses-ZY156_20230503_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY156/ses-ZY156_20230502_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY156/ses-ZY156_20230504_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY130/sub-ZY130_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY130_20221127_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY130/ses-ZY130_20221127_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY130/ses-ZY130_20221129_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY130/ses-ZY130_20221128_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY138/sub-ZY138_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY138_20230127_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230129_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230207_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230206_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230130_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230128_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230205_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230130_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230203_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230131_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230129_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230127_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230202_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230204_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230128_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230127_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY138/ses-ZY138_20230201_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY70/sub-ZY70_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY70_20210907NP_Striatum'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY70/ses-ZY70_20210911NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY70/ses-ZY70_20210907NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY70/ses-ZY70_20210910NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY70/ses-ZY70_20210908NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY70/ses-ZY70_20210909NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-MK24/sub-MK24_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-MK24_20230310_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK24/ses-MK24_20230312_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK24/ses-MK24_20230314_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK24/ses-MK24_20230313_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK24/ses-MK24_20230310_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-MK24/ses-MK24_20230311_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY89/sub-ZY89_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY89_20220127NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220127NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220129NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220127NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220129NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220128NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220128NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220130NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY89/ses-ZY89_20220131NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY144/sub-ZY144_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY144_20230314_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230319_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230323_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230316_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230315_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230322_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230320_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230315_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230316_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230314_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230321_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230314_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230318_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY144/ses-ZY144_20230317_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY211/sub-ZY211_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY211_20240411_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY211/ses-ZY211_20240412_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY211/ses-ZY211_20240412_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY211/ses-ZY211_20240411_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY211/ses-ZY211_20240411_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY68/sub-ZY68_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY68_20210804NP_Striatum'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210808NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210811NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210804NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210807NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210806NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210809NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210810NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY68/ses-ZY68_20210805NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY127/sub-ZY127_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY127_20221112_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY127/ses-ZY127_20221112_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY127/ses-ZY127_20221114_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY127/ses-ZY127_20221113_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY209/sub-ZY209_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY209_20240214_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY209/ses-ZY209_20240216_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY209/ses-ZY209_20240215_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY209/ses-ZY209_20240214_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY102/sub-ZY102_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY102_20220607_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220610_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220609_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220612_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220608_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220611_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY102/ses-ZY102_20220607_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY134/sub-ZY134_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY134_20230328_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230403_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230404_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230328_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230328_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230329_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230330_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230331_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230329_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230402_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230330_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230405_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230406_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY134/ses-ZY134_20230401_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY114/sub-ZY114_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY114_20220803_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY114/ses-ZY114_20220805_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY114/ses-ZY114_20220807_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY114/ses-ZY114_20220804_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY114/ses-ZY114_20220803_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY114/ses-ZY114_20220806_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY163/sub-ZY163_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY163_20230426_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY163/ses-ZY163_20230427_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY163/ses-ZY163_20230426_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY163/ses-ZY163_20230429_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY163/ses-ZY163_20230428_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY147/sub-ZY147_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY147_20230214_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230219_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230216_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230214_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230223_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230216_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230215_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230214_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230218_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230220_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230221_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230222_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230215_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY147/ses-ZY147_20230217_Striatum/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY133/sub-ZY133_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY133_20221113_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY133/ses-ZY133_20221114_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY133/ses-ZY133_20221115_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY133/ses-ZY133_20221113_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY81/sub-ZY81_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY81_20211123NP_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211124NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211125NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211123NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211126NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211123NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211125NP_Striatum/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY81/ses-ZY81_20211124NP_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY112/sub-ZY112_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY112_20220629_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY112/ses-ZY112_20220701_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY112/ses-ZY112_20220630_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY112/ses-ZY112_20220629_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY149/sub-ZY149_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY149_20230411_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY149/ses-ZY149_20230412_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY149/ses-ZY149_20230413_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY149/ses-ZY149_20230411_ALM/",
+        "severity": "error"
+      },
+      {
+        "subCode": "session_id",
+        "location": "/sub-ZY122/sub-ZY122_sessions.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Sessions",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'ses-ZY122_20220916_ALM'",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY122/ses-ZY122_20220917_ALM/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-ZY122/ses-ZY122_20220916_ALM/",
+        "severity": "error"
+      }
+    ],
+    "codeMessages": {
+      "UNKNOWN_BIDS_VERSION": "The BIDSVersion field of 'dataset_description.json' does not match a known release.\nThe BIDS Schema used for validation may be out of date.\n",
+      "README_FILE_MISSING": "The recommended file /README is missing.\nSee Section 03 (Modality agnostic files) of the BIDS specification.\n",
+      "TOO_FEW_AUTHORS": "The 'Authors' field of 'dataset_description.json' should contain an array of values -\nwith one author per value.\nThis was triggered based on the presence of only one author field.\nPlease ignore if all contributors are already properly listed.\n",
+      "JSON_KEY_RECOMMENDED": "A JSON file is missing a key listed as recommended.",
+      "TSV_VALUE_INCORRECT_TYPE": "A value in a column did not match the acceptable type for that column headers specified format.",
+      "NOT_INCLUDED": "Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a \".bidsignore\" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder."
+    }
+  },
+  "summary": {
+    "sessions": [],
+    "subjects": [
+      "ZY98",
+      "ZY82",
+      "ZY115",
+      "ZY116",
+      "ZY67",
+      "ZY207",
+      "ZY142",
+      "ZY78",
+      "ZY83",
+      "ZY111",
+      "ZY103",
+      "MI111",
+      "ZY135",
+      "ZY141",
+      "MK25",
+      "ZY118",
+      "ZY126",
+      "ZY104",
+      "ZY76",
+      "ZY151",
+      "ZY212",
+      "ZY113",
+      "ZY123",
+      "ZY208",
+      "ZY88",
+      "ZY132",
+      "ZY84",
+      "ZY156",
+      "ZY130",
+      "ZY138",
+      "ZY70",
+      "MK24",
+      "ZY89",
+      "ZY144",
+      "ZY211",
+      "ZY68",
+      "ZY127",
+      "ZY209",
+      "ZY102",
+      "ZY134",
+      "ZY114",
+      "ZY163",
+      "ZY147",
+      "ZY133",
+      "ZY81",
+      "ZY112",
+      "ZY149",
+      "ZY122"
+    ],
+    "subjectMetadata": [
+      {
+        "participantId": "MI111",
+        "sex": "M"
+      },
+      {
+        "participantId": "MK24",
+        "sex": "F"
+      },
+      {
+        "participantId": "MK25",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY102",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY103",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY104",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY111",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY112",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY113",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY114",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY115",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY116",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY118",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY122",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY123",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY126",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY127",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY130",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY132",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY133",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY134",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY135",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY138",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY141",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY142",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY144",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY147",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY149",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY151",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY156",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY163",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY207",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY208",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY209",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY211",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY212",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY67",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY68",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY70",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY76",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY78",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY81",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY82",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY83",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY84",
+        "sex": "F"
+      },
+      {
+        "participantId": "ZY88",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY89",
+        "sex": "M"
+      },
+      {
+        "participantId": "ZY98",
+        "sex": "F"
+      }
+    ],
+    "tasks": [],
+    "modalities": [],
+    "secondaryModalities": [],
+    "totalFiles": 360,
+    "size": 16518370,
+    "dataProcessed": false,
+    "pet": {},
+    "dataTypes": [],
+    "schemaVersion": "1.3.0-dev"
+  }
+}
