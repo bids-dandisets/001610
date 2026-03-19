@@ -1,6 +1,6 @@
-session_id
-ses-ZY70+20210907NP+Striatum
-ses-ZY70+20210908NP+Striatum
-ses-ZY70+20210909NP+Striatum
-ses-ZY70+20210910NP+Striatum
-ses-ZY70+20210911NP+Striatum
+session_id	original_session_id
+ses-ZY70+20210907NP+Striatum	ses-ZY70_20210907NP_Striatum
+ses-ZY70+20210908NP+Striatum	ses-ZY70_20210908NP_Striatum
+ses-ZY70+20210909NP+Striatum	ses-ZY70_20210909NP_Striatum
+ses-ZY70+20210910NP+Striatum	ses-ZY70_20210910NP_Striatum
+ses-ZY70+20210911NP+Striatum	ses-ZY70_20210911NP_Striatum

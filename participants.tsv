@@ -1,49 +1,49 @@
-participant_id	species	sex	strain
-sub-MI111	Mus musculus	M	C57Bl/6J
-sub-MK24	Mus musculus	F	VGAT-ChR2-eYFP
-sub-MK25	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY102	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY103	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY104	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY111	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY112	Mus musculus	M	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY113	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY114	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY115	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY116	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY118	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY122	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY123	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY126	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY127	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY130	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY132	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY133	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY134	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY135	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY138	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY141	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY142	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY144	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY147	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
-sub-ZY149	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY151	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY156	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY163	Mus musculus	F	C57Bl/6J
-sub-ZY207	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY208	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY209	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY211	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY212	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY67	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY68	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY70	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY76	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY78	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY81	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY82	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY83	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY84	Mus musculus	F	VGAT-ChR2-eYFP
-sub-ZY88	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY89	Mus musculus	M	VGAT-ChR2-eYFP
-sub-ZY98	Mus musculus	F	VGAT-ChR2-eYFP
+participant_id	original_participant_id	species	sex	strain
+sub-MI111	sub-MI111	Mus musculus	M	C57Bl/6J
+sub-MK24	sub-MK24	Mus musculus	F	VGAT-ChR2-eYFP
+sub-MK25	sub-MK25	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY102	sub-ZY102	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY103	sub-ZY103	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY104	sub-ZY104	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY111	sub-ZY111	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY112	sub-ZY112	Mus musculus	M	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY113	sub-ZY113	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY114	sub-ZY114	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY115	sub-ZY115	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY116	sub-ZY116	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY118	sub-ZY118	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY122	sub-ZY122	Mus musculus	F	Adora2–cre KG126 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY123	sub-ZY123	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY126	sub-ZY126	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY127	sub-ZY127	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY130	sub-ZY130	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY132	sub-ZY132	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY133	sub-ZY133	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY134	sub-ZY134	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY135	sub-ZY135	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY138	sub-ZY138	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY141	sub-ZY141	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY142	sub-ZY142	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY144	sub-ZY144	Mus musculus	F	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY147	sub-ZY147	Mus musculus	M	Drd1–cre FK150 x R26-LNL-GtACR1-Fred-Kv2.1
+sub-ZY149	sub-ZY149	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY151	sub-ZY151	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY156	sub-ZY156	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY163	sub-ZY163	Mus musculus	F	C57Bl/6J
+sub-ZY207	sub-ZY207	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY208	sub-ZY208	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY209	sub-ZY209	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY211	sub-ZY211	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY212	sub-ZY212	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY67	sub-ZY67	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY68	sub-ZY68	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY70	sub-ZY70	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY76	sub-ZY76	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY78	sub-ZY78	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY81	sub-ZY81	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY82	sub-ZY82	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY83	sub-ZY83	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY84	sub-ZY84	Mus musculus	F	VGAT-ChR2-eYFP
+sub-ZY88	sub-ZY88	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY89	sub-ZY89	Mus musculus	M	VGAT-ChR2-eYFP
+sub-ZY98	sub-ZY98	Mus musculus	F	VGAT-ChR2-eYFP

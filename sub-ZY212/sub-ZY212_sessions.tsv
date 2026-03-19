@@ -1,5 +1,5 @@
-session_id
-ses-ZY212+20240408+ALM
-ses-ZY212+20240408+Striatum
-ses-ZY212+20240410+ALM
-ses-ZY212+20240410+Striatum
+session_id	original_session_id
+ses-ZY212+20240408+ALM	ses-ZY212_20240408_ALM
+ses-ZY212+20240408+Striatum	ses-ZY212_20240408_Striatum
+ses-ZY212+20240410+ALM	ses-ZY212_20240410_ALM
+ses-ZY212+20240410+Striatum	ses-ZY212_20240410_Striatum
