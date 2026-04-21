@@ -4,12 +4,14 @@
     "HEDVersion": "8.3.0",
     "Description": "Data from \"Integrator dynamics in cortico-basal ganglia loop for flexible motor timing\" Yang et al \nExample codes to plot data is at https://github.com/inagaki-lab/Yang_et_al_2024",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Inagaki, Hidehiko"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
             "Name": "nwb2bids",
-            "Version": "0.12.1.dev4+gc93cee118",
+            "Version": "0.12.1.dev6+gf29fa0039",
             "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
             "CodeURL": "https://github.com/con/nwb2bids"
         }
