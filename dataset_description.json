@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Data from \"Integrator dynamics in cortico-basal ganglia loop for flexible motor timing\" Yang et al \nExample codes to plot data is at https://github.com/inagaki-lab/Yang_et_al_2024",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Inagaki, Hidehiko"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
